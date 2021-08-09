@@ -14,6 +14,6 @@ SC.initialize({
         e.preventDefault();
         sound.stop();
         });
- 
+        
      });
   });
